@@ -38,8 +38,8 @@ This project involves the formal specification of a simplified version of the cl
 
 ## Achievements
 - **Grade Achieved: 97/100**.
-Successfully modeled and verified a robust system free from logical errors.
-Enhanced understanding of formal specification for real-world applications.
+- Successfully modeled and verified a robust system free from logical errors.
+- Enhanced understanding of formal specification for real-world applications.
 
 ---
 
